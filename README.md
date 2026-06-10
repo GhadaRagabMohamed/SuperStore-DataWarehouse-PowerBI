@@ -44,4 +44,3 @@ Here are some previews of the dashboards included in the project:
 📊 **Sales & Profit Analysis**  
 📊 **Customer Analysis**  
 📊 **Product Analysis**  
-🌍 **Geographic Distribution**
